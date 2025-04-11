@@ -1,0 +1,24 @@
+.container{
+    margin-top: 50px;
+}
+.part1,.part3{
+    background-color: blue;
+    height: 150px;
+}
+.part2{
+    background-color: red;
+    height: 250px;
+}
+.part{
+    width: 800px;
+    margin: auto;
+    
+}
+img{
+    width: 80%;
+    height: 310px;
+    display: block;
+    margin: auto;
+    padding: 2px;
+}
+
